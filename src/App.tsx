@@ -4,7 +4,7 @@ import {Nav} from './sections/Nav.tsx'
 import {Main} from './sections/Main.tsx'
 import {Footer} from './sections/Footer.tsx'
 
-import Logo from '../assets/logos/Logo.svg'
+import Logo from './assets/logos/Logo.svg'
 
 function App() {
 
